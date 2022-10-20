@@ -1,3 +1,4 @@
 Django
 heyoo
 mysql-connector-python
+mysqlclient
